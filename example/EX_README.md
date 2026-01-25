@@ -15,6 +15,8 @@ Predicted Attribute: Class of Iris Plant
 **Features Used:**  
 - Sepal Length
 - Petal Length
+- Sepal Width (not used)
+- Petal Width (not used)
 
 **[Video Review](https://)**
 
